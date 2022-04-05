@@ -8,4 +8,4 @@
 qiaokeao/qiaokeao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[filter "lfs"]clean = git-lfs clean -- %f smudge = git-lfs smudge -- %f process = git-lfs filter-process required = true [user] name = qiaokeao email = 1473608865@qq.com
+
